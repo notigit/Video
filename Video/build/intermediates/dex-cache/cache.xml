@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\meiguo_yingyuan\Video\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\meiguo_yingyuan\Video\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_3cdf0c26229cd7ef5f1d7b6f5898ed2ef1ef7c8d.jar" />
+    </item>
+    <item
+        jar="D:\meiguo_yingyuan\Video\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\meiguo_yingyuan\Video\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_702014778c68e4b46833cdb37ef68e18fd6922f8.jar" />
+    </item>
+    <item
+        jar="D:\meiguo_yingyuan\Video\app\libs\wftsdk2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bec068e362b01ebbf331894d5597712f1c3a333e">
+        <dex dex="D:\meiguo_yingyuan\Video\app\build\intermediates\pre-dexed\debug\wftsdk2.0_08454a294e07e4e91bf1aaf05cefa71c99465205.jar" />
+    </item>
+    <item
+        jar="D:\meiguo_yingyuan\Video\app\libs\gson-2.6.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\meiguo_yingyuan\Video\app\build\intermediates\pre-dexed\debug\gson-2.6.2_f03c1d5e3aaef2546f55c572b25719b9cb50dacc.jar" />
+    </item>
+    <item
+        jar="D:\meiguo_yingyuan\Video\app\libs\volly-1.0.11.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1c248dd8e8c23a3e77a29613a2872be50b680d39">
+        <dex dex="D:\meiguo_yingyuan\Video\app\build\intermediates\pre-dexed\debug\volly-1.0.11_253161ed419eedf39f360efc188c240dfd941592.jar" />
+    </item>
+    <item
+        jar="D:\meiguo_yingyuan\Video\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\meiguo_yingyuan\Video\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_051abe529ac45e8112c1741275a32a41a08a20e4.jar" />
+    </item>
+    <item
+        jar="D:\meiguo_yingyuan\Video\app\libs\umeng-analytics-v5.6.7.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bf324c2f968604935d48434b57832aaaca91def0">
+        <dex dex="D:\meiguo_yingyuan\Video\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.6.7_8feae7bf31f3d21d61b9528bc50f587c4e406486.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\meiguo_yingyuan\Video\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_efd358856f7349d1a9ffd2b176d6d830be5c44c9.jar" />
+    </item>
+    <item
+        jar="D:\meiguo_yingyuan\Video\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\meiguo_yingyuan\Video\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_7bd612b2725b02ebd5cb469aa99a68326e0e2612.jar" />
+    </item>
+    <item
+        jar="D:\meiguo_yingyuan\Video\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\meiguo_yingyuan\Video\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_d2c4bb4e3c49d30b7a2a0c30d157fa495bbbb52a.jar" />
+    </item>
+    <item
+        jar="D:\meiguo_yingyuan\Video\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\meiguo_yingyuan\Video\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_f569e916690dc10a87cac3bfb384719a97e875ff.jar" />
+    </item>
+
+</items>
